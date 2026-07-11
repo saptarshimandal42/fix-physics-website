@@ -43,7 +43,7 @@ const teachers: Teacher[] = [
     photo: "/faculty/saptarshi_mandal.png",
   },
   {
-    name: "Ms. Tanushree Paul",
+    name: "Ms. Tanushree Pal",
     subject: "Physics",
     experience: "6 years",
     bio: "Modern physics and optics mentor who blends visual demos with lots of numerical practice.",
