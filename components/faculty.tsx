@@ -43,7 +43,7 @@ const teachers: Teacher[] = [
     photo: "/faculty/saptarshi_mandal.png",
   },
   {
-    name: "Ms. Tanushree Pal",
+    name: "Ms. Tanushree Paul",
     subject: "Physics",
     experience: "6 years",
     bio: "Modern physics and optics mentor who blends visual demos with lots of numerical practice.",
@@ -89,10 +89,10 @@ const teachers: Teacher[] = [
     subject: "Biology",
     experience: "4 years",
     bio: "Passionate about genetics and human physiology, turning dense syllabi into memorable visual stories.",
-    photo: "/faculty/bijaya_kar.jpeg",
+    photo: "/faculty/Bijaya_kar.jpeg",
   },
   {
-    name: "Mr. Rohan Das",
+    name: "Mr. Arnab Das",
     subject: "Biology",
     experience: "8 years",
     bio: "Passionate about genetics and human physiology, turning dense syllabi into memorable visual stories.",
